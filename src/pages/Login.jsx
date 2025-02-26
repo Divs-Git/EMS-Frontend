@@ -2,7 +2,7 @@ import { FaUserTie } from 'react-icons/fa';
 
 const Login = () => {
   return (
-    <div className='flex flex-col items-center mt-[120px] h-screen bg-gradient-to-b from-gray-50 to-gray-200 space-y-6'>
+    <div className='flex flex-col items-center mt-[100px] h-screen bg-gradient-to-b from-gray-50 to-gray-200 space-y-6'>
       <span>
         <FaUserTie size={34} />
       </span>
